@@ -43,13 +43,6 @@ Input 3 elements in the array : 2 5 8</br>
 Output: </br>
 Sum of all elements stored in the array is : 15</br>
 
-<h2> Problem 5: You will be given an integer array 'arr'. Your task is to print the largest and smallest element in 'arr'. </h2>
-<p>
-Example<br>
-input:<br>
- 5 8 10 3 2 6</br>
-Output: </br>
-Max = 10<br>
-Min = 2</br>
+
 
 
